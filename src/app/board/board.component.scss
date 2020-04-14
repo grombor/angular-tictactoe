@@ -1,0 +1,25 @@
+main {
+    margin-top: 2rem;
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-gap: 0;
+}
+
+app-square {
+    border: 1px solid gray;
+    height: 150px;
+}
+
+#winner {
+    margin: 0 15px;
+    color: red;
+    display: inline;
+}
+
+h1 {
+    margin: 15px 15px;
+}
+
+button {
+    margin-top: 7px;
+}
